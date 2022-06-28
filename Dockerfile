@@ -15,5 +15,3 @@ RUN uname -m
 ENV PUID=1000
 ENV PGID=1000
 ENV TZ="Asia/Shanghai"
-
-ENTRYPOINT ["sleep","infinity"]
