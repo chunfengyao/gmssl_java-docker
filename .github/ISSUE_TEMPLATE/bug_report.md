@@ -1,6 +1,6 @@
 ---
 name: Bug Report Template
-about: If you would like to report a issue to cloudreve-docker, please use this template.
+about: If you would like to report a issue to gmssl_java_env-docker, please use this template.
 ---
 
 <!-- required -->
