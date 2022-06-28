@@ -6,7 +6,7 @@ RUN mkdir -p /usr/share/man/man1/
 
 RUN apt update
 
-RUN apt install -y ca-certificates openjdk-11-jdk unzip
+RUN apt install -y ca-certificates openjdk-11-jdk unzip gcc make
 
 RUN apt clean
 
